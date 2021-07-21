@@ -1,0 +1,27 @@
+
+
+body{
+    background-color: rgb(228, 228, 228);
+    font-family: "Lucida Sans Unicode", "Lucida Grande", sans-serif;
+}
+
+.navbar-color{
+    background-color: rgb(77, 189, 198);
+}
+
+.background-img{
+    background-image: url('../../imagenes/background-dientes.jfif');
+}
+
+.main-contenedor{
+    border-bottom: solid black;
+}
+
+.img-size{
+    width: 60%;
+    height: 60%;
+}
+
+.gap-row{
+    row-gap: 20px;
+}
