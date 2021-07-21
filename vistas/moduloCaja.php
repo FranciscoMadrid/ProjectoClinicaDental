@@ -47,7 +47,7 @@
                             </div>
                             <p class="card-text">1. Dirigase al menu principal. Selecione el icono de caja que se encuentra en la parte superior del menu.</p>
                             <div class="container text-center img-size">
-                                <img src="../imagenes/Caja-menu.png" class="img-thumbnail">
+                                <img src="../imagenes/caja-menu.jfif" class="img-thumbnail">
                             </div>
                             <p class="card-text">2. Una vez aqui, selecione el paciente a cobrar.</p>
                             <p class="card-text">3. Selecione la cita que seria cobrada.</p>
