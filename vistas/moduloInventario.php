@@ -45,13 +45,13 @@
                             <div class="container text-center img-size">
                                 <img src="../imagenes/Menu.png" class="img-thumbnail">
                             </div>
-                            <p class="card-text">1. Dirigase al menu principal. Selecione el boton que diga "Inventario".</p>
+                            <p class="card-text text-width">1. Dirigase al menu principal. Selecione el boton que diga "Inventario".</p>
                             <div class="container text-center img-size">
                                 <img src="../imagenes/Inventario-menu.png" class="img-thumbnail">
                             </div>
-                            <p class="card-text">2. Una vez aqui, podra observar dos tablas. Una que contiene la informacion de los materiales y otra que contiene los tratamientos y los materiales que utiliza.</p>
-                            <p class="card-text">3. Ingrese los datos del nuevo material que quiere ingresar.</p>
-                            <p class="card-text">4. Con los datos ingresados, haga click en el buton de "Guardar".</p>
+                            <p class="card-text text-width">2. Una vez aqui, podra observar dos tablas. Una que contiene la informacion de los materiales y otra que contiene los tratamientos y los materiales que utiliza.</p>
+                            <p class="card-text text-width">3. Ingrese los datos del nuevo material que quiere ingresar.</p>
+                            <p class="card-text text-width">4. Con los datos ingresados, haga click en el buton de "Guardar".</p>
                         </div>
                     </div>
                 </div>

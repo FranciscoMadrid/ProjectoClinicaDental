@@ -45,23 +45,23 @@
                             <div class="container text-center img-size">
                                 <img src="../imagenes/Menu.png" class="img-thumbnail">
                             </div>
-                            <p class="card-text">1. Dirigase al menu principal. En el menu superior, haga clic en la figura de un engranaje.</p>
+                            <p class="card-text text-width">1. Dirigase al menu principal. En el menu superior, haga clic en la figura de un engranaje.</p>
                             <div class="container text-center img-size">
                                 <img src="../imagenes/Usuario-menu.png" class="img-thumbnail">
                             </div>
-                            <p class="card-text">2. Una vez aqui, selecione el boton que dice "Agregar nuevo usuario".</p>
+                            <p class="card-text text-width">2. Una vez aqui, selecione el boton que dice "Agregar nuevo usuario".</p>
                             <br>
                             <div class="container text-center img-size">
                                 <img src="../imagenes/Usuario-menu.jfif" class="img-thumbnail">
                             </div>
                             <br>
-                            <p class="card-text">3. Ingrese los datos que se le pide.</p>
+                            <p class="card-text text-width">3. Ingrese los datos que se le pide.</p>
                             <br>
-                            <div class="alert alert-info" role="alert">
+                            <div class="alert alert-info text-width" role="alert">
                                 Asegurese de utilizar una contraseña que sea segura y facil de recordar...
                             </div>
                             <br>
-                            <p class="card-text">4. Con los datos ingresados, haga click en el boton de "Agregar" para guardar los datos en el sistema.</p>
+                            <p class="card-text text-width">4. Con los datos ingresados, haga click en el boton de "Agregar" para guardar los datos en el sistema.</p>
                         </div>
                     </div>
                 </div>
@@ -74,10 +74,10 @@
                             <h2>¿Como actualizo la informacion de un usuario?</h2>
                         </div>
                         <div class="card-body">
-                            <p class="card-text">1. Dentro del modulo de usuario, selecione una fila de la tabla de empleados.</p>
-                            <p class="card-text">2. Con la fila selecionada, haga clic en el boton de "Editar".</p>
-                            <p class="card-text">3. Como puede observar, los datos del empleado han sido traidos y puesto en sus respectivos campos.</p>
-                            <p class="card-text">4. Una vez que haya realizado los cambios que desea, haga clic en el boton de "Guardar" para gaurdar los nuevos cambios en el sistema.</p>
+                            <p class="card-text text-width">1. Dentro del modulo de usuario, selecione una fila de la tabla de empleados.</p>
+                            <p class="card-text text-width">2. Con la fila selecionada, haga clic en el boton de "Editar".</p>
+                            <p class="card-text text-width">3. Como puede observar, los datos del empleado han sido traidos y puesto en sus respectivos campos.</p>
+                            <p class="card-text text-width">4. Una vez que haya realizado los cambios que desea, haga clic en el boton de "Guardar" para gaurdar los nuevos cambios en el sistema.</p>
                         </div>
                     </div>
                 </div>
@@ -90,10 +90,10 @@
                             <h2>¿Como elimino un usuario?</h2>
                         </div>
                         <div class="card-body">
-                            <p class="card-text">1. Dentro del modulo de usuario, selecione una fila de la tabla de empleados.</p>
-                            <p class="card-text">2. Con la fila selecionada, haga clic en el boton de "Eliminar".</p>
-                            <p class="card-text">3. Se abriria una nueva ventana pidiendo su confirmacion para eliminar los datos.</p>
-                            <p class="card-text">4. Haga clic en el boton de "Confirmar" para eliminar los registros del empleado selecionado.</p>
+                            <p class="card-text text-width">1. Dentro del modulo de usuario, selecione una fila de la tabla de empleados.</p>
+                            <p class="card-text text-width">2. Con la fila selecionada, haga clic en el boton de "Eliminar".</p>
+                            <p class="card-text text-width">3. Se abriria una nueva ventana pidiendo su confirmacion para eliminar los datos.</p>
+                            <p class="card-text text-width">4. Haga clic en el boton de "Confirmar" para eliminar los registros del empleado selecionado.</p>
                         </div>
                     </div>
                 </div>

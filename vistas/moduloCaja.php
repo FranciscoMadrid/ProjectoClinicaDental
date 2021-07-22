@@ -45,15 +45,15 @@
                             <div class="container text-center img-size">
                                 <img src="../imagenes/Menu.png" class="img-thumbnail">
                             </div>
-                            <p class="card-text">1. Dirigase al menu principal. Selecione el icono de caja que se encuentra en la parte superior del menu.</p>
+                            <p class="card-text text-width">1. Dirigase al menu principal. Selecione el icono de caja que se encuentra en la parte superior del menu.</p>
                             <div class="container text-center img-size">
                                 <img src="../imagenes/caja-menu.jfif" class="img-thumbnail">
                             </div>
-                            <p class="card-text">2. Una vez aqui, selecione el paciente a cobrar.</p>
-                            <p class="card-text">3. Selecione la cita que seria cobrada.</p>
-                            <p class="card-text">4. Observara, que los detalles de la cita llenan los campos.</p>
-                            <p class="card-text">5. Una vez con todos los datos llenos, aprete el boton de "Realizar Transacción".</p>
-                            <p class="card-text">6. Los datos han sido ingresados con exito al sistema. </p>
+                            <p class="card-text text-width">2. Una vez aqui, selecione el paciente a cobrar.</p>
+                            <p class="card-text text-width">3. Selecione la cita que seria cobrada.</p>
+                            <p class="card-text text-width">4. Observara, que los detalles de la cita llenan los campos.</p>
+                            <p class="card-text text-width">5. Una vez con todos los datos llenos, aprete el boton de "Realizar Transacción".</p>
+                            <p class="card-text text-width">6. Los datos han sido ingresados con exito al sistema. </p>
                         </div>
                     </div>
                 </div>

@@ -22,6 +22,10 @@ body{
     height: 60%;
 }
 
-.gap-row{
-    row-gap: 20px;
+.text-width{
+    text-align: justify;
+    margin-left: 140px;
+    margin-right: 140px;
+    margin-top: 34px;
+    margin-bottom: 34px;
 }

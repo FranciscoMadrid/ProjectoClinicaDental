@@ -45,13 +45,13 @@
                         <div class="container text-center img-size">
                             <img src="../imagenes/Menu.png" class="img-thumbnail">
                         </div>
-                        <p class="card-text">1. Dirigase al menu principal. Selecione el boton que diga "Pacientes"</p>
+                        <p class="card-text text-width">1. Dirigase al menu principal. Selecione el boton que diga "Pacientes"</p>
                         <div class="container text-center img-size">
                             <img src="../imagenes/Pacientes-menu.png" class="img-thumbnail">
                         </div>
-                        <p class="card-text">2. Una vez aqui, podra observar la tabla de pacientes que contiene todos los pacientes actualmente activos en el sistema.</p>
-                        <p class="card-text">3. Ingrese los datos que se le pide.</p>
-                        <p class="card-text">4. Una vez que los datos hayan sidos ingresados correctamente, haga clic en el boton de "Guardar".</p> 
+                        <p class="card-text text-width">2. Una vez aqui, podra observar la tabla de pacientes que contiene todos los pacientes actualmente activos en el sistema.</p>
+                        <p class="card-text text-width">3. Ingrese los datos que se le pide.</p>
+                        <p class="card-text text-width">4. Una vez que los datos hayan sidos ingresados correctamente, haga clic en el boton de "Guardar".</p> 
                     </div>
                 </div>
             </div>

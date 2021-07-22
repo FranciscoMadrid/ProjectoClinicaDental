@@ -36,21 +36,21 @@
                 <div class="col">
                     <div class="card">
                         <div class="card-header">
-                            <h2>¿Como agendar una cita?</h2>
+                            <h2><b>¿Como agendar una cita?</b></h2>
                         </div>
                         <div class="card-body">
                             <div class="container text-center img-size">
                                 <img src="../imagenes/Menu.png" class="img-thumbnail">
                             </div>
-                            <p class="card-text">1. Dirigase al menu principal. Selecione el boton que diga 'Citas'</p>
+                            <p class="card-text text-width">1. Dirigase al menu principal. Selecione el boton que diga 'Citas'</p>
                             <div class="container text-center img-size">
                                 <img src="../imagenes/Cita-Agendar.png" class="img-thumbnail">
                             </div>
-                            <p class="card-text">2. Una vez aqui, ingrese los datos que se le piden.</p>
-                            <div class="alert alert-info" role="alert">
+                            <p class="card-text text-width">2. Una vez aqui, ingrese los datos que se le piden.</p>
+                            <div class="alert alert-info text-width" role="alert">
                                 La fecha y la hora de la cita tiene que ser mayor a la fecha actual.
                             </div>
-                            <p class="card-text">3. Con los datos ingresados, haga click en el buton de "Agregar" para guardar los datos en el sistema.</p>
+                            <p class="card-text text-width">3. Con los datos ingresados, haga click en el buton de "Agregar" para guardar los datos en el sistema.</p>
                         </div>
                     </div>
                 </div>
@@ -64,14 +64,14 @@
                             <h2>¿Como editar una cita?</h2>
                         </div>
                         <div class="card-body">
-                            <p class="card-text">1. Dentro del modulo de Citas. Arriba de la tabla, eliga el paciente cuya cita desea cambiar.</p>
-                            <p class="card-text">2. Una vez que encuentra la informacion del paciente, selecione la fila a editar.</p>
-                            <p class="card-text">3. Con la fila selecionada, aprete el boton de "Editar".</p>
+                            <p class="card-text text-width">1. Dentro del modulo de Citas. Arriba de la tabla, eliga el paciente cuya cita desea cambiar.</p>
+                            <p class="card-text text-width">2. Una vez que encuentra la informacion del paciente, selecione la fila a editar.</p>
+                            <p class="card-text text-width">3. Con la fila selecionada, aprete el boton de "Editar".</p>
                             <div class="container text-center img-size">
                                 <img src="../imagenes/Cita-Editar.png" class="img-thumbnail">
                             </div>
-                            <p class="card-text">5. Modifique los datos que desea editar.</p>
-                            <p class="card-text">6. Una vez que haya ingresados los datos a modificar, aprete el boton de "Guardar" para guardar los cambios.</p>
+                            <p class="card-text text-width">5. Modifique los datos que desea editar.</p>
+                            <p class="card-text text-width">6. Una vez que haya ingresados los datos a modificar, aprete el boton de "Guardar" para guardar los cambios.</p>
                         </div>
                     </div>
                 </div>

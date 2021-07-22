@@ -45,18 +45,18 @@
                         <div class="container text-center img-size">
                             <img src="../imagenes/Menu.png" class="img-thumbnail">
                         </div>
-                        <p class="card-text">1. Dirigase al menu principal. Selecione el boton que diga "Reportes"</p>
+                        <p class="card-text text-width">1. Dirigase al menu principal. Selecione el boton que diga "Reportes"</p>
                         <div class="container text-center img-size">
                             <img src="../imagenes/Reporte-menu.png" class="img-thumbnail">
                         </div>
-                        <p class="card-text">2. Una vez aqui, podra observar en la barra izquierda diferentes posibles reportes que el programa ofrece.</p>
-                        <p class="card-text">3. Selecione el reporte que desea visualizar e ingrese los datos que se le pide.</p>
-                        <p class="card-text">4. Una vez que los datos hayan sidos ingresados correctamente, el reporte se generar de la siguiente manera.</p>
+                        <p class="card-text text-width">2. Una vez aqui, podra observar en la barra izquierda diferentes posibles reportes que el programa ofrece.</p>
+                        <p class="card-text text-width">3. Selecione el reporte que desea visualizar e ingrese los datos que se le pide.</p>
+                        <p class="card-text text-width">4. Una vez que los datos hayan sidos ingresados correctamente, el reporte se generar de la siguiente manera.</p>
                         <div class="container text-center img-size">
                             <img src="../imagenes/Reporte-Fecha de compra material.png" class="img-thumbnail">
                         </div>
                         <br>
-                        <div class="alert alert-info" role="alert">
+                        <div class="alert alert-info text-width" role="alert">
                             En este ejemplo, se eligio el reporte de materiales proximo a vencer...
                         </div>
 
@@ -66,7 +66,7 @@
                             <img src="../imagenes/Reporte- de tratamientos.png" class="img-thumbnail">
                         </div>
                         <br>
-                        <div class="alert alert-info" role="alert">
+                        <div class="alert alert-info text-width" role="alert">
                             En este ejemplo, se eligio el reporte de tratamientos...
                         </div>
                         
